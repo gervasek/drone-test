@@ -1,0 +1,4 @@
+pipeline:
+  test:
+    image: ubuntu
+    commands: echo "hello"
